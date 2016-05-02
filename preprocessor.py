@@ -5,10 +5,7 @@ import os.path as path
 import cv2
 from os.path import expanduser
 
-'''
-    author/s: Keiron O'Shea, mona
-    description: preproccesses the images for standard height and width
-'''
+
 import cv2
 
 def load_directories(directory):
